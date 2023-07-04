@@ -15,6 +15,11 @@ You will given instructions to create something - **creating a new site**.
 - Standard syntax for different things needed in Machine Coding Rounds. 
 
 ## Start your site
-- How to setup locally via NPM + Vite 
-- Standard input components needed 
+- Install ReactJs Project locally ( CRA / Vite / Parcel - here we use Vite)
+    - [How to setup locally via Vite + npm](/blog/installvite) 
+- Syntax Basics
+    - [React Router setup](docs/syntax-basics/routerinstallation)
+    - [Naming Conventions](docs/syntax-basics/naming)
+    - [Common inputs](docs/syntax-basics/inputsyntax)
+    - [Standard input components needed](/docs/syntax-basics/inputsyntax) 
 - Deployment tips 
