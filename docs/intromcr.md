@@ -16,7 +16,7 @@ You will given instructions to create something - **creating a new site**.
 
 ## Start your site
 - Install ReactJs Project locally ( CRA / Vite / Parcel - here we use Vite)
-    - How to setup locally via Vite + npm
+    - [How to setup locally via Vite + npm](/blog/installvite)
 - Syntax Basics
     - React Router setup
     - Context setup
