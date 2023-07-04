@@ -16,10 +16,17 @@ You will given instructions to create something - **creating a new site**.
 
 ## Start your site
 - Install ReactJs Project locally ( CRA / Vite / Parcel - here we use Vite)
-    - [How to setup locally via Vite + npm](/blog/installvite) 
+    - How to setup locally via Vite + npm
 - Syntax Basics
-    - [React Router setup](/syntax-basics/routerinstallation)
-    - [Naming Conventions](/syntax-basics/naming)
-    - [Common inputs](/syntax-basics/inputsyntax)
-    - [Standard input components needed](/syntax-basics/inputsyntax) 
-- Deployment tips 
+    - React Router setup
+    - Context setup
+    - Naming Conventions
+    - Common input types syntax
+    - Popup - React Popup library
+    - Modal - Chakra UI library 
+    - Misc tips 
+- Sample Data 
+    - Posts Data 
+    - Recipe Data 
+- Deployment tips
+    - Coming soon!
