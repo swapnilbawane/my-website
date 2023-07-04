@@ -75,6 +75,7 @@ const config = {
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Tutorial',
+            to:'/docs/intromcr'
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -92,7 +93,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/intromcr',
+                to: '/docs/intromcr',
               },
             ],
           },
@@ -100,8 +101,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Discord',
-                href: '@swapnilbawane',
+                label: 'Github',
+                href: 'https://github.com/swapnilbawane',
               },
               {
                 label: 'Twitter',
