@@ -18,8 +18,8 @@ You will given instructions to create something - **creating a new site**.
 - Install ReactJs Project locally ( CRA / Vite / Parcel - here we use Vite)
     - [How to setup locally via Vite + npm](/blog/installvite) 
 - Syntax Basics
-    - [React Router setup](docs/syntax-basics/routerinstallation)
-    - [Naming Conventions](docs/syntax-basics/naming)
-    - [Common inputs](docs/syntax-basics/inputsyntax)
-    - [Standard input components needed](/docs/syntax-basics/inputsyntax) 
+    - [React Router setup](/syntax-basics/routerinstallation)
+    - [Naming Conventions](/syntax-basics/naming)
+    - [Common inputs](/syntax-basics/inputsyntax)
+    - [Standard input components needed](/syntax-basics/inputsyntax) 
 - Deployment tips 
