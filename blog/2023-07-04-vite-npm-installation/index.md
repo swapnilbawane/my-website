@@ -7,7 +7,7 @@ tags: [vite, npm]
 
 ## Step by step guide for installing simple React App.
 
-**Note:** This article was first published here: [(Vite Deploys (github.com)](https://gist.github.com/swapnilbawane/32f49496c6bb8c4cf6d7265c1d431e3c))
+**Note:** This article was also published here: [Hashnode blog](https://swapnilbawane.hashnode.dev/deploy-simple-react-app-locally-with-vite-npm)
 
 ## PART 1: Creating a basic folder structure for React Project
 
